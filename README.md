@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @umegan(An) a student
-- 👀 I’m interested in AI Engineer
-- 🌱 I’m currently learning Machine Learning(scikit-learn, Tensorflow)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m work as AI Engineer at STD japan
 - 📫 How to reach me umegbox@gmail.com
 
 <!---

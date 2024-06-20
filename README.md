@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @umegan(An) a student
-- 👀 I’m work as AI Engineer at STD japan
+- 👋 Hi, I’m @umegan(An) a student at Tokyo University of Technology 
 - 📫 How to reach me umegbox@gmail.com
 
 <!---

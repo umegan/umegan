@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![Physical AI Robotics Simulation Header](assets/header.png)
+![Physical AI Robotics Simulation Header](assets/header1.png)
 
 <div align="center">
 

@@ -2,9 +2,7 @@
 ![Hi, I'm An](assets/header_wide.png)
 
 <div align="center">
-
-# Hi there, I'm An (@umegan) 👋
-
+  
 I am passionate about **Physical AI Robotics Simulation**, working to bridge the gap between virtual training and physical deployment. My focus lies in creating photo-realistic simulations and robust control policies for next-generation robotics.
 
 ---

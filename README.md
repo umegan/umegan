@@ -17,13 +17,6 @@ I am passionate about **Physical AI Robotics Simulation**, working to bridge the
 
 ---
 
-### 📊 GitHub Stats
-
-![An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umegan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umegan&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/gue-an/">
